@@ -1,0 +1,43 @@
+* Designing Experiences by Quinn Zeda from Zeda Labs
+** What is User Experience (UX) Design?
+** Sweet Spot of UX
+*** User needs <=> Business Goals => UX
+** The Halo Effect - if one thing is good, the other thing is good too.
+** Design alone doesn't make a product valuable.
+** The UX Hierarchy of Needs
+*** enjoyable - is it enjoyable?
+**** it's difficult to get here, but if you do, you'll dominate
+*** easy to use - is it easy to use?
+**** reduce number of steps for user.
+**** http://peek.usertesting.com/
+*** coherent - does the user understand it?
+**** copywriting
+**** design amplifies words go get your words down first
+**** not ugly is good enough for now
+**** http://www.copyhackers-for-hire.com/
+*** function - does it work? (MVP exists at this stage)
+*** purpose (foundation) - what does it do
+** Brand Hacking
+*** pro fonts are nice
+*** http://myfonts.com/
+** Case Study with 16 Personalities
+*** http://16personalities.com/
+*** Site worked great, but sales were low.
+*** Updated the Logo
+*** Made 16 unique drawings for each personality type.
+*** The diplomat personality generated the most sales by far so marketing material catered more to them.
+*** Adding a buy button at the bottom and adding an image to the sales page increased conversion by 500%.
+** Good UX Amplifies Results
+** Top 5 UX Mistakes
+*** One Page, One Goal
+**** people get lost otherwise
+*** Action Color
+**** Use the most attention grabbing color in your palette for actions.
+**** Reserve your action color for actions.  Don't overuse it.
+*** Differentiate Primary and Secondary Actions
+*** White Space is essential for a balanced harmonious layout.
+**** whitespace is a feeling of luxury
+*** Navigation should be well structured and simple.
+**** Be clear with your words.
+** http://zedalabs.com/nomadsummit
+** quinn@zedalabs.com
